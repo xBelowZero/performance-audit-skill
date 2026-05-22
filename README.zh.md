@@ -46,7 +46,7 @@
 # 1. 克隆到 ~/.claude/skills/
 mkdir -p ~/.claude/skills
 cd ~/.claude/skills
-git clone https://github.com/xBelowZero/claude-skill-performance-audit.git performance-audit
+git clone https://github.com/xBelowZero/performance-audit-skill.git performance-audit
 
 # 2.（可选但推荐）配置 PageSpeed Insights API key
 # 无 key：每个 IP 大约 1 次查询/天。有 key：400 QPS / 25k 查询/天。

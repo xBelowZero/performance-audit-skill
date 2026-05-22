@@ -108,4 +108,4 @@ Tell them: "Open a fresh ChatGPT chat with this same GPT and paste the same cont
 
 ## Full methodology
 
-https://github.com/xBelowZero/claude-skill-performance-audit
+https://github.com/xBelowZero/performance-audit-skill

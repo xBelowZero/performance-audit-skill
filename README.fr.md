@@ -46,7 +46,7 @@ Invoquer avec `/performance-audit` ou "audite la performance de cette page".
 # 1. Cloner dans ~/.claude/skills/
 mkdir -p ~/.claude/skills
 cd ~/.claude/skills
-git clone https://github.com/xBelowZero/claude-skill-performance-audit.git performance-audit
+git clone https://github.com/xBelowZero/performance-audit-skill.git performance-audit
 
 # 2. (Optionnel mais recommandé) configurer l'API key du PageSpeed Insights
 # Sans clé : ~1 requête/jour par IP. Avec clé : 400 QPS / 25k requêtes/jour.
